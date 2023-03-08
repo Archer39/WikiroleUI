@@ -15,7 +15,7 @@
   ],
 
   "manifest": "https://raw.githubusercontent.com/Archer39/WikiroleUI/main/module.json",
-  "download": "https://github.com/Archer39/WikiroleUI/releases/archive/refs/tags/0.1.zip",
+  "download": "https://github.com/Archer39/WikiroleUI/releases/download/0.1/wikirole.zip",
   "authors": [
     {
       "name": "Archer/Caos/Pasquale",
