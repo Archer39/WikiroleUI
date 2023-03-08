@@ -1,17 +1,17 @@
 {
-  "id": "rpg-styled-ui",
-  "name": "rpg-styled-ui",
-  "title": "RPG Styled UI for Foundry VTT",
-  "description": "Theme for DnD5e.",
+  "id": "wikiroleui",
+  "name": "WikiroleUI",
+  "title": "Creata da Pasquale",
+  "description": "Tema per dnd 5e",
   "url": "https://github.com/Xbozon/rpg-styled-ui",
-  "version": "v1.1.1",
+  "version": "0.1",
   "compatibility": {
     "minimum": "10",
     "verified": "10.284",
     "maximum": "10"
   },
   "scripts": [
-    "scripts/rpg-ui.js"
+    "scripts/wikiroleui.js"
   ],
   "languages": [
     {
@@ -33,11 +33,11 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Xbozon/rpg-styled-ui/main/module.json",
-  "download": "https://github.com/Xbozon/rpg-styled-ui/archive/refs/tags/v1.1.1.zip",
+  "manifest": "https://raw.githubusercontent.com/Archer39/WikiroleUI/main/module.json",
+  "download": "https://github.com/Archer39/WikiroleUI/releases/download/latest/module.zip",
   "authors": [
     {
-      "name": "Xbozon",
+      "name": "Archer/Caos/Pasquale",
       "flags": {}
     }
   ]
